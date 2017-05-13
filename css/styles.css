@@ -1,0 +1,26 @@
+.container {
+  font-family: sans-serif;
+  font-size: 25px;
+  width: 100%;
+}
+.jumbotron {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 1px;
+  background-color: transparent;
+  border-top-color: transparent;
+}
+.about {
+  border: 10px;
+  padding: 10px;
+  border-color: gray;
+  border-radius: 50px;
+  float: left;
+}
+.exercises {
+  border: 10px;
+  padding: 10px;
+  border-color: gray;
+  border-radius: 50px;
+  float: left;
+}
