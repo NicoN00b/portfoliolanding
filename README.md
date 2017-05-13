@@ -14,7 +14,7 @@ _{It appears that I am having trouble overriding the bootstrap stylesheet with m
 
 ## Support and contact details
 
-_{Please share your wisdom with me at nicholas.raethke@gmail.com}_
+_{Please share your wisdom with me at nicholas.raethke@gmail.com.  Find the GitHub repository at: https://github.com/nicholasraethke/portfoliolanding }_
 
 ## Technologies Used
 

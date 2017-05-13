@@ -1,19 +1,28 @@
+.body {
+  padding: 0;
+  margin: 0;
+}
 .container {
   font-family: sans-serif;
   font-size: 25px;
   width: 100%;
   float: left;
   text-align: left;
+  height: auto;
+  padding: 0;
+  margin: 0;
 }
 .jumbotron {
-  padding-left: 1px;
-  margin-left: 1px;
-  border: 1px;
+  border: 10px;
+  padding: 10px;
+  margin: 5px;
   background-color: transparent;
   border-top-color: transparent;
   width: 100%;
   max-width: 100%;
+  float: left;
 }
+
 .about {
   border: 10px;
   padding: 10px;
