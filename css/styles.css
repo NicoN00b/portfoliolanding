@@ -2,25 +2,33 @@
   font-family: sans-serif;
   font-size: 25px;
   width: 100%;
+  float: left;
+  text-align: left;
 }
 .jumbotron {
-  padding-top: 1px;
-  padding-bottom: 1px;
-  margin-bottom: 1px;
+  padding-left: 1px;
+  margin-left: 1px;
+  border: 1px;
   background-color: transparent;
   border-top-color: transparent;
+  width: 100%;
+  max-width: 100%;
 }
 .about {
   border: 10px;
   padding: 10px;
-  border-color: gray;
+  margin: 5px;
+  border-color: #eee;
   border-radius: 50px;
   float: left;
+  background-color: #eee;
 }
 .exercises {
   border: 10px;
   padding: 10px;
-  border-color: gray;
+  margin: 5px;
+  border-color: #eee;
   border-radius: 50px;
-  float: left;
+  float: right;
+  background-color: #eee;
 }
